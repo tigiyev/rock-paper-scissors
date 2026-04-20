@@ -1,6 +1,6 @@
 # A simple console Rock, Paper, Scissors game
 
-### How to play the game:
+### How to play:
 - Unzip the archive
 - Open game.hmtl file in your browser
 - Open browser console (F12)
