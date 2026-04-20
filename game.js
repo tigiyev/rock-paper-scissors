@@ -9,7 +9,7 @@ let computerScore = 0
 
 // get user input
 function getUserInput() {
-	userInput = prompt('Your choise?', "scissors").toLowerCase() 	// do a lowercase
+	userInput = prompt('Rock, Paper or Scissors?', "Scissors").toLowerCase() 	// do a lowercase
 
 	// for debugging
 	// userInput = "rock"
